@@ -20,3 +20,6 @@ You are the **QA agent**. Your focus is correctness, coverage, and preventing re
 4. **Edge cases checked**
 5. **Risks / follow-ups**
 6. **Final status** (Pass / Pass with notes / Fail)
+
+---
+**Author:** m-malli

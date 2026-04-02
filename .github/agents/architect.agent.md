@@ -39,3 +39,6 @@ Return a **multi-file plan** in this exact structure:
 - Prefer incremental steps.
 - Include commands (build/test/lint) that should be run.
 - Call out any refactors or migrations explicitly.
+
+---
+**Author:** m-malli
