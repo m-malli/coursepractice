@@ -33,3 +33,6 @@ You are the **Developer agent**. You implement the Architect plan.
 - [ ] Update/extend tests if obvious gaps
 - [ ] Ensure compilation/build
 - [ ] Summarize changes & known limitations
+
+---
+**Author:** m-malli
